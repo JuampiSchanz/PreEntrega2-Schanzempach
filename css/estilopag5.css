@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+
+*{
+
+    margin:0 ;
+    padding: 0;
+    box-sizing:border-box;
+    font-family:'Sono', sans-serif ;
+}
+
+.logo { width:  8rem;}
+
+
+body{background-color: rgb(36, 36, 36);} 
+
+h1{text-align: center;}
+
+ ul{ text-align: center ;}
